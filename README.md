@@ -1,4 +1,6 @@
 
+
+![AWS Workbench Logo]("images/aws-workbench-logo.png")
 #  AWS Workbench
 
 ## What is AWS Workbench?
