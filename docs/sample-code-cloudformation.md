@@ -1253,30 +1253,6 @@
         "DeleteAutomatedBackups": true,
         "DeletionProtection": true,
         "Engine": "mysql",
-        "MasterUsername": {
-          "Fn::Join": [
-            "",
-            [
-              "{{resolve:secretsmanager:",
-              {
-                "Ref": "RDSBACKENDSecretA61517F2"
-              },
-              ":SecretString:username::}}"
-            ]
-          ]
-        },
-        "MasterUserPassword": {
-          "Fn::Join": [
-            "",
-            [
-              "{{resolve:secretsmanager:",
-              {
-                "Ref": "RDSBACKENDSecretA61517F2"
-              },
-              ":SecretString:password::}}"
-            ]
-          ]
-        },
         "MultiAZ": true,
         "Port": "3306",
         "StorageType": "gp2",
