@@ -75,11 +75,13 @@ Install following eclipse plugins in Obeo Designer
 3. Creating a [new AWS Workbench project](docs/getting-started.md)
 
 
-## Roadmap 
-- Continuous improvement and addition of new services from AWS 
-- Create [Landing Zone](https://aws.amazon.com/solutions/implementations/aws-landing-zone/) and [Control Tower](https://aws.amazon.com/controltower/) constructs
-- Extend Workbench to [CDK8S](https://cdk8s.io/)
-- Extend Workbench to [Azure](https://azure.microsoft.com/en-in/) and [Google Cloud](https://cloud.google.com/) using [Pulumi](https://www.pulumi.com/)
+## Sources
+- Ecore [Model](https://github.com/AWS-Workbench/com.amazon.aws.workbench.model) , [Edit](https://github.com/AWS-Workbench/com.amazon.aws.workbench.model.edit) , [Editor](https://github.com/AWS-Workbench/com.amazon.aws.workbench.model.editor)
+- [Odesign](https://github.com/AWS-Workbench/awsworkbench.design)  
+
+## Author
+
+@rkvsraman
 
 
 
