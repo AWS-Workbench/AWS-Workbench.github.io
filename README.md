@@ -81,7 +81,7 @@ Install following eclipse plugins in Obeo Designer
 
 ## Author
 
-@rkvsraman
+[@rkvsraman](https://github.com/rkvsraman)
 
 
 
