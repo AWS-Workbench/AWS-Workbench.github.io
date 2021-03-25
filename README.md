@@ -7,6 +7,9 @@
 
  **AWS Workbench** is the first [ArchOps](https://en.wikipedia.org/wiki/DevOps#ArchOps) environment for designing and deploying AWS Infrastructure. 
 
+ [![Intro Video](./images/YoutubeScreenshot.png)](https://youtu.be/1pnMsWiM3P8)
+
+
 AWS Workbench aims to solves the pain points observed in current cloud architecture design and deployment process like ;
 
  - **Waterfallish handoffs** between Architects and Cloud DevOps Engineers
