@@ -66,7 +66,7 @@ Install following eclipse plugins in Obeo Designer
 - [Eclipse Maven Plugin](https://www.eclipse.org/m2e/) 
 
 ###  Install AWS Workbench
-- Clone this repository 
+- Clone [this](https://github.com/AWS-Workbench/AWSWorkbenchRelease) repository 
 - Install AWS Workbench plugin from [local zip](UpdateSite.zip) . *(Instructions on how to install eclipse plugins from zip file described [here](https://stackoverflow.com/questions/31553376/eclipse-how-to-install-a-plugin-manually/31553745))*
 - Start Obeo Designer and we are good to go  
 
